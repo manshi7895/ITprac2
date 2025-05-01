@@ -1,0 +1,8 @@
+This is an example text file.
+You can use it to store plain text data.
+
+Line 1: Hello, World!
+Line 2: This is a sample text.
+Line 3: Feel free to edit or replace this content.
+
+End of file.
